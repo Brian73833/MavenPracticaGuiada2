@@ -13,7 +13,7 @@ import com.google.gson.reflect.TypeToken;
 public class PersonFileManager {
 
     // Según tu estructura: src/data/person.json
-    private static final String PATH = "C:\\Users\\Profesor\\Desktop\\Maven/person.json";
+    private static final String PATH = "C:\\Users\\Brian\\Desktop\\Maven\\MavenPracticaGuiada3/person.json";
 
     // Gson con formato bonito para el archivo
     private final Gson gson = new GsonBuilder().setPrettyPrinting().create();
